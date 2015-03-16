@@ -1,5 +1,11 @@
 Connect Four
 
+
+UPDATE
+This game now supports a single player mode. The AI for this mode is still a work
+in progress but it is playable at this point.
+Also added a reset button in the case of a tie (r)
+
 This program uses the pygame library to create a connect four game. The object
 of this game is very self-explanatory, connect four of the same color pieces.
 These can be horizontal, vertical or diagonal. The arrow keys are used to
